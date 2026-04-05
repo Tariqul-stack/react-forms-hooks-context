@@ -19,7 +19,6 @@ This repository contains my learning and practice of core React concepts includi
 
 * React
 * JavaScript (ES6+)
-* CSS / Tailwind (if used)
 
 ## 🎯 Purpose
 
@@ -53,7 +52,7 @@ src/
 
 ## ✍️ Author
 
-**Tariqul Islam**
+Tariqul Islam
 
 * Email: [tariqul.dev0@gmail.com](mailto:tariqul.dev0@gmail.com)
 * GitHub: https://github.com/Tariqul-stack
