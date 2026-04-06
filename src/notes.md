@@ -14,3 +14,6 @@ const [formData, setFormData] = useState({
 4. unControlled using useRef
 
 5. Hook Form
+
+# Context API
+1. create a context using createContext with a default value make sure you export the context to be user in other files
