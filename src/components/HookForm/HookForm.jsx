@@ -8,7 +8,7 @@ const HookForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("submit", name, email);
+    console.log("submit", name, email, password);
   };
 
   return (
